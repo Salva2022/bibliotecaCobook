@@ -19,3 +19,34 @@ Foram utilizados:
 6. Por fim, para rodar o programa, cm o NetBeans IDE aberto, aperte F6 ou selecione Run Project.
 
 ## Demonstração do funcionamento da aplicação:
+
+Ao abrir a aplicação, ela apresenta a primeira interface de login da biblioteca Cobook. Faço o login inserindo o meu e-mail (neste caso: gdenadai98@gmail.com) e insiro uma senha de administrador (admin01).
+![1 login admin](https://github.com/user-attachments/assets/07f434a0-f20f-4287-9be1-d94d623f62fc)
+Caso a senha esteja incorreta, apresenta a mensagem de erro:
+![2 login admin falho](https://github.com/user-attachments/assets/9072b7fe-2a01-46a1-af27-e947b2bb35e8)
+Ao clicar no ícone "Sign In" entro na interface de administração, onde posso entrar na Livraria no primeiro ícone para "Visualizar Livros".
+No segundo ícone "Cadastrar", é possível realizar o cadastro de livros e de novos usuários. Também é possível sair para a tela de login apertando o terceiro ícone "Sair".
+![3 Menu administrador](https://github.com/user-attachments/assets/268d64c9-c912-48fc-8e7f-157a1142a9cf)
+Clicando no segundo ícone "Cadastrar > Usuários", onde posso preencher as informações de um novo usuário incluindo: Nome; e-mail; cpf; idade; sexo; dois livros preferidos; senha de acesso (neste caso, joao11).
+![4 cadastrar usuário](https://github.com/user-attachments/assets/d765dbde-b193-497a-ab9b-757203c10d6f)
+Ao clicar em "Salvar", o usuário é cadastrado apresentado a mensagem abaixo:
+![5 usuario cadastrado](https://github.com/user-attachments/assets/6ccb5205-f290-448b-a473-001caa76138d)
+Selecionar a opção "Limpar" vai deixar em branco os campos preenchidos. Para voltar ao meno, seleciona-se "Cancelar".
+
+Para logar com usuário "João" criado, apertamos no terceiro ícone "Sair" no menu do administrador, retornando a tela inicial.
+![6 sair administrador](https://github.com/user-attachments/assets/2af5f470-7388-49e8-92bb-a5548e05015c)
+Insere-se as informações do usuário criado nos campos e-mail e senha(joao11), e clica-se em Sign In.
+![7 login usuario](https://github.com/user-attachments/assets/9db0d079-6cd2-4e3e-8b01-063a4a8a130e)
+O Menu de Usuário tem os mesmo ícones que o de Administrador, con exceção do segundo ìcone de "Cadastrar" onde há somente o campo para "Livros".
+![8 Cadastrar livros usuário](https://github.com/user-attachments/assets/e817f1d2-e63b-46f8-849e-3e6ffccb9594)
+No campo de cadastro de livros, é possível preencher alguns campos, sendo estes: Título, Tipo, Autor e Nota do Livro. Clicando em "Salvar" o livro é cadastrado na aplicação. Neste caso, foi dada uma nota 10 para o livro "Percy Jackson e o ladrão de raios".
+![9 cadastrando livro usuario](https://github.com/user-attachments/assets/50e24552-ff09-41e6-827a-d890539131d8)
+Caso um dos campos não seja preenchido corretamente, será apresentada uma mensagem de erro de preenchimento, como no exemplo abaixo: O cadastro do livro de título "O Animal Social" do autor "Elliot Aronson" não teve seu campo "Tipo" de livro preenchido!
+![10 Falha cadastro livro](https://github.com/user-attachments/assets/d3d851a8-efc0-43b1-b397-34c500b8da4c)
+Após criado este usuário, foi deslogado para tela de login para logar como administrador novamente, para criar outro livro com sua avaliação, e para o livro "Percy Jackson e o ladrão de raios" foi dada uma nota 7.
+![11 Criação segundo livro admin](https://github.com/user-attachments/assets/b240b423-baee-4438-8da5-272a63c34f6a)
+![12 admin livro Percy nota 7](https://github.com/user-attachments/assets/60000192-7b25-4fea-8fd0-1f84bdff04b9)
+Ao clicar em "Cancelar" após criar as duas avaliações, retornamos ao Menu, onde temos o primeiro ícone "Livraria" > "Visualizar Livros".
+![13 Clicar visualizar livros](https://github.com/user-attachments/assets/bd2f9d7e-6b13-4b57-9155-8c647dcf5686)
+Clicando nela, temos acesso a biblioteca dos livros cadastrados, contendo seu "Título", "Autor" e sua "Nota", que é uma média das notas cadastradas por todos os usuários da aplicação, incluindo o administrador.
+![14 Livraria](https://github.com/user-attachments/assets/a5a128db-c64a-4b9c-87a3-10103aae366f)
