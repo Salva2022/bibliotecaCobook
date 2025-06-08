@@ -9,7 +9,7 @@ import dao.LivroDAO;
 
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class Livro {
     private Integer codLivro;

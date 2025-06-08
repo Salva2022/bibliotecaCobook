@@ -10,7 +10,7 @@ import model.Usuario;
 
 /**
  *
- * @author 819220488
+ * @author Gustavo
  */
 public class UsuariosController {
     

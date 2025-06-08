@@ -12,7 +12,7 @@ import dao.UsuarioDAO;
 
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class Usuario {
     private Integer codUsuario;

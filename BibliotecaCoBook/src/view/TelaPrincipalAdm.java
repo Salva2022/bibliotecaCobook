@@ -9,7 +9,7 @@ import model.Usuario;
 
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class TelaPrincipalAdm extends javax.swing.JFrame {
     private Usuario usuario;

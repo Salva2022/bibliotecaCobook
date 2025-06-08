@@ -9,7 +9,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class ConnectionMVC {
  
@@ -24,7 +24,7 @@ public class ConnectionMVC {
         }
         
         try{
-            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/cobook?useSSL=false", "root", "senha");
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/cobook?useSSL=false", "root", "root");
         } catch (SQLException e) {
         e.printStackTrace();
         }

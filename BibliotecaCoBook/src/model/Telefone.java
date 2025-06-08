@@ -6,7 +6,7 @@ package model;
 
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class Telefone {
     private Integer codTelefone;

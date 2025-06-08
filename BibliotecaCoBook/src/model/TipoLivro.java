@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class TipoLivro {
     private Integer codTipoLivro;

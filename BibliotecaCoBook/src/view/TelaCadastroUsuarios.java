@@ -10,7 +10,7 @@ import model.Usuario;
 
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class TelaCadastroUsuarios extends javax.swing.JFrame {
     public Usuario usuario;

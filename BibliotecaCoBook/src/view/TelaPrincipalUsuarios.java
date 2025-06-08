@@ -8,7 +8,7 @@ import model.Usuario;
 
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class TelaPrincipalUsuarios extends javax.swing.JFrame {
     private Usuario usuario;

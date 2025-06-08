@@ -10,7 +10,7 @@ import model.Usuario;
 import model.Livro;
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class TelaCadastroLivros extends javax.swing.JFrame {
     Usuario usuario;

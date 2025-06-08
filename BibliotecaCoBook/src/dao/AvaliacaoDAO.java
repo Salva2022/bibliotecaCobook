@@ -9,7 +9,7 @@ import java.sql.SQLException;
 import model.Avaliacao;
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class AvaliacaoDAO {
     

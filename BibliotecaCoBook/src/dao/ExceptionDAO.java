@@ -6,7 +6,7 @@ package dao;
 
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class ExceptionDAO extends Exception {
     

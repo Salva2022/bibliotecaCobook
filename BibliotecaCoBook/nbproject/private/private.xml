@@ -2,6 +2,31 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/model/Cargos.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/dao/TabelaDAO.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/view/TelaVisualizadorDeLivros.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/model/Livro.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/model/VisualizadorDeLivros.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/view/TelaPrincipalUsuarios.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/view/TelaCadastroUsuarios.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/model/Telefone.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/model/Avaliacao.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/view/TelaCadastroLivros.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/dao/LivroDAO.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/dao/AvaliacaoDAO.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/dao/UsuarioDAO.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/view/TelaPrincipalAdm.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/controller/LivroController.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/dao/ConnectionMVC.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/model/Atividades.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/dao/ExceptionDAO.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/model/TipoLivro.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/model/VisualizadorDeLivrosTableModel.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/controller/UsuariosController.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/model/TipoTelefone.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/view/Login.java</file>
+            <file>file:/C:/Users/SAMSUNG/bibliotecaCobook/BibliotecaCoBook/src/model/Usuario.java</file>
+        </group>
     </open-files>
 </project-private>

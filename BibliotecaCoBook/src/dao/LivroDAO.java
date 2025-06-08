@@ -10,7 +10,7 @@ import model.Livro;
 import java.sql.ResultSet;
 /**
  *
- * @author Guilherme
+ * @author Gustavo
  */
 public class LivroDAO {
     public void cadastrarLivro(Livro livro) throws ExceptionDAO {

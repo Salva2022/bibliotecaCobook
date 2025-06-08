@@ -6,7 +6,7 @@ package model;
 
 /**
  *
- * @author 819220488
+ * @author Gustavo
  */
 public class Avaliacao {
     private Usuario usuario;    
