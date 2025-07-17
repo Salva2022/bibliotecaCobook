@@ -25,7 +25,7 @@ Foram utilizados:
 
 ## Demonstração do funcionamento da aplicação:
 
-1. Ao abrir a aplicação, ela apresenta a primeira interface de login da biblioteca Cobook. Faço o login inserindo o meu e-mail (neste caso: gdenadai98@gmail.com) e insiro uma senha de administrador (admin01).
+1. Ao abrir a aplicação, ela apresenta a primeira interface de login da biblioteca Cobook. Faço o login inserindo o meu e-mail, que neste caso é "gdenadai98@gmail.com", e insiro uma senha de administrador (admin01).
 ![1 login admin](https://github.com/user-attachments/assets/07f434a0-f20f-4287-9be1-d94d623f62fc)
 
 2. Caso a senha esteja incorreta, apresenta a mensagem de erro:
@@ -69,6 +69,7 @@ Foram utilizados:
 
 
 #No MySQL Workbench
+
 15. Após realizar as criações acima, ao entrarmos no MySQL Workbench, podemos visualizar a base de dados, onde na seção de usuários, aparecem as informações: cod_usuario; nome; email; cpf; idade; sexo; tipo_livro_preferido 1; tipo_livro_preferido 2; senha; e administrador (onde '1' significa que o usuário é adminitrador e 'null' é um usuário comum, conforme demonstra a figura abaixo:
 ![15 MySQL usuarios](https://github.com/user-attachments/assets/92ab749b-e008-4d2f-889a-ea87968f1a35)
 
